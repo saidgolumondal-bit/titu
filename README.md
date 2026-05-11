@@ -1,2 +1,0 @@
-# titu
-🌐 Auto deployed website
